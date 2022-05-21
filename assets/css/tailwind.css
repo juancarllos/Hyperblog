@@ -69,3 +69,19 @@
     font-weight: 900;
     src: url('../fonts/Raleway/Raleway-Black.ttf');
 }
+
+.card {
+    @apply w-48 h-64 shadow-md shadow-neutral-500 rounded-lg flex-none transform transition-all hover:-translate-y-4 hover:shadow-xl font-Montserrat
+}
+
+.card-img {
+    @apply w-full h-3/5 rounded-t-lg
+}
+
+.card-featured--title {
+    @apply text-3xl px-8 pt-4 pb-2 font-semibold 
+}
+
+.footer-menu {
+    @apply hover:text-lg hover:transform hover:translate-x-2 hover:transition-all duration-500
+}
