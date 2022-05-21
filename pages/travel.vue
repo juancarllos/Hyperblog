@@ -74,7 +74,7 @@
           </button>
         </div>
         <div class="w-full h-full lg:h-96 lg:bg-cristalesdesktop lg:bg-cover lg:bg-center">
-          <img class="lg:hidden" src="../assets/img/cañocristales.jpg" alt="" />
+          <img class="lg:hidden" src="/img/cañocristales.jpg" alt="" />
         </div>
       </div>
     </div>
@@ -242,8 +242,17 @@
   </div>
 </template>
 
-<script>
-export default {};
-</script>
+<script lang="ts">
+import { defineComponent } from 'vue'
 
-<style></style>
+export default defineComponent({
+  head(){
+    return {
+      title: 'Travel'
+    }
+  },
+  setup() {
+
+  },
+})
+</script>
