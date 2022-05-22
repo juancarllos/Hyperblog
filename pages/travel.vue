@@ -1,5 +1,5 @@
 <template class="dark">
-    <header class="w-full h-auto font-Montserrat md: lg:h-3/5">
+    <header class="w-full h-auto font-Montserrat lg:h-3/5">
       <nav class="w-full h-14 hidden bg-zinc-50 lg:flex justify-between items-center fixed z-50">
         <div class="h-auto w-auto">
           <h1 class="text-3xl text-slate-800 font-bold p-4">Moto Travel</h1>

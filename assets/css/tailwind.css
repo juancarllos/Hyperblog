@@ -85,3 +85,9 @@
 .footer-menu {
     @apply hover:text-lg hover:transform hover:translate-x-2 hover:transition-all duration-500
 }
+
+/*Styles SuperMarket*/
+
+.card-supermarket {
+    @apply shadow-md shadow-black w-48 h-48 rounded-xl flex-none transform transition-all hover:-translate-y-4 hover:shadow-xl
+}
