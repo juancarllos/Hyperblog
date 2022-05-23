@@ -68,8 +68,7 @@ module.exports = {
   },
   variants: {
     width: ["responsive", "hover", "focus"],
-    extend: {   
-    }
+    extend: {}
   },
   plugins: [
     require('@tailwindcss/typography'),
