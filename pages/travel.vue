@@ -55,7 +55,7 @@
             class="
               w-32
               h-12
-              bg-terciary
+              bg-primary
               text-white text-lg
               font-semibold
               p-1

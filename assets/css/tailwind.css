@@ -71,7 +71,7 @@
 }
 
 .card {
-    @apply w-48 h-64 shadow-md shadow-neutral-500 rounded-lg flex-none transform transition-all hover:-translate-y-4 hover:shadow-xl font-Montserrat
+    @apply w-48 h-64 shadow-md bg-primary shadow-neutral-500 rounded-lg flex-none transform transition-all hover:-translate-y-4 hover:shadow-xl font-Montserrat
 }
 
 .card-img {
