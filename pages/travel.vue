@@ -34,7 +34,7 @@
             space-y-20
             py-4
             items-center
-            
+
             lg:space-y-0
             lg:items-start
             lg:pt-28
@@ -64,7 +64,7 @@
               duration-500
               ease-in-out
               hover:bg-secondary
-              hover:-transalate-y-1 
+              hover:-transalate-y-1
               hover:scale-110
               hover:text-slate-800
               lg:ml-16
@@ -147,7 +147,7 @@
             <p class="text-lg pl-8 text-slate-800 mr-24">Tunja</p>
         </div>
 
-          
+
           <div class="w-full h-96 bg-macheta bg-cover rounded-xl mb-8 bg-center">
             <p class="card-featured--title text-zinc-50">Macheta</p>
             <p class="text-lg pl-8 text-zinc-100 mr-24">Macheta</p>
@@ -187,7 +187,7 @@
       </div>
     </section>
   </main>
-  
+
 
   <footer class="w-full h-80 bg-slate-800 font-Montserrat p-6 space-y-2" id="footer">
     <p class="text-lg text-zinc-100">Sobre nosotros</p>
@@ -248,7 +248,10 @@ import { defineComponent } from 'vue'
 export default defineComponent({
   head(){
     return {
-      title: 'Travel'
+      title: 'Travel',
+      link: [
+        { rel: 'icon', type: 'image/x-icon', href: 'https://toppng.com/uploads/preview/motorcycle-icon-11562943268vracxoczhd.png' }
+      ]
     }
   },
   setup() {

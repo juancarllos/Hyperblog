@@ -9,7 +9,7 @@
         <div class="flex space-x-8 p-2">
             <a href="#home">
                 <h1 class="text-lg text-green-900 font-bold md:text-xl px-2">Supermarket Aldana</h1>
-            </a>  
+            </a>
         </div>
         <div class="hidden lg:flex space-x-8 text-green-900 text-lg font-semibold">
             <a href="#destacados">Destacados</a>
@@ -53,13 +53,13 @@
                         <a href="#footer">Sobre nosotros</a>
                     </li>
                 </ul>
-                
+
             </ul>
         </article>
 
         <article class="w-full h-auto mt-8 p-6" id="destacados">
             <p class="text-3xl text-black font-semibold w-full">Productos destacados</p>
-            <section class="w-auto h-auto items-center flex flex-col mt-8 space-y-6 md:flex-row md:overflow-x-auto md:overscroll-x-contain md:overflow-y-hidden md:space-x-6 md:h-72"> 
+            <section class="w-auto h-auto items-center flex flex-col mt-8 space-y-6 md:flex-row md:overflow-x-auto md:overscroll-x-contain md:overflow-y-hidden md:space-x-6 md:h-72">
                  <div class="shadow-md shadow-black w-48 h-48 bg-manzana bg-center bg-contain bg-no-repeat rounded-xl flex-none md:hover:transform md:transition-all md:hover:-translate-y-4 md:hover:shadow-xl md:mt-6">
                     <div class="flex justify-between p-2 h-4/5">
                         <span class="text-green-900">8%</span>
@@ -70,7 +70,7 @@
                     <div class="flex justify-between p-2 bg-zinc-50 z-50 rounded-b-xl items-center text-green-900 font-semibold ">
                         <span>Manzana</span>
                         <span>$ 1.000</span>
-                    </div>   
+                    </div>
                 </div>
                  <div class="shadow-md shadow-black w-48 h-48 bg-uvas bg-center bg-contain bg-no-repeat rounded-xl flex-none md:hover:transform md:transition-all md:hover:-translate-y-4 md:hover:shadow-xl">
                     <div class="flex justify-between p-2 h-4/5">
@@ -82,7 +82,7 @@
                     <div class="flex justify-between p-2 bg-zinc-50 z-50 rounded-b-xl items-center text-green-900 font-semibold">
                         <span>Uvas</span>
                         <span>$ 10.000</span>
-                    </div>   
+                    </div>
                 </div>
                  <div class="shadow-md shadow-neutral-500 w-48 h-48 bg-sandia bg-contain bg-center bg-no-repeat rounded-xl flex-none md:hover:transform md:transition-all md:hover:-translate-y-4 md:hover:shadow-xl">
                     <div class="flex justify-between p-2 h-4/5">
@@ -94,7 +94,7 @@
                     <div class="flex justify-between p-2 bg-zinc-50 z-50 rounded-b-xl items-center text-green-900 font-semibold">
                         <span>Sandia</span>
                         <span>$ 12.000</span>
-                    </div>   
+                    </div>
                 </div>
                  <div class="shadow-md shadow-black w-48 h-48 bg-naranja bg-contain bg-no-repeat bg-center rounded-xl flex-none md:hover:transform md:transition-all md:hover:-translate-y-4 md:hover:shadow-xl">
                     <div class="flex justify-between p-2 h-4/5">
@@ -106,7 +106,7 @@
                     <div class="flex justify-between p-2 bg-zinc-50 z-50 rounded-b-xl items-center text-green-900 font-semibold">
                         <span>Naranaja</span>
                         <span>$ 3.000</span>
-                    </div>   
+                    </div>
                 </div>
                  <div class="shadow-md shadow-black w-48 h-48 bg-marihuana bg-center bg-contain bg-no-repeat rounded-xl flex-none md:hover:transform md:transition-all md:hover:-translate-y-4 md:hover:shadow-xl">
                     <div class="flex justify-between p-2 h-4/5">
@@ -118,7 +118,7 @@
                     <div class="flex justify-between p-2 bg-zinc-50 z-50 rounded-b-xl items-center text-green-900 font-semibold">
                         <span>Marihuana</span>
                         <span>$ 100.000</span>
-                    </div>   
+                    </div>
                 </div>
                  <div class="shadow-md shadow-black w-48 h-48 bg-romero bg-center bg-contain bg-no-repeat rounded-xl flex-none md:hover:transform md:transition-all md:hover:-translate-y-4 md:hover:shadow-xl">
                     <div class="flex justify-between p-2 h-4/5">
@@ -130,7 +130,7 @@
                     <div class="flex justify-between p-2 bg-zinc-50 z-50 rounded-b-xl items-center text-green-900 font-semibold">
                         <span>Romero</span>
                         <span>$ 1.000</span>
-                    </div>   
+                    </div>
                 </div>
                  <div class="shadow-md shadow-black w-48 h-48 bg-manzanilla bg-center bg-contain bg-no-repeat rounded-xl flex-none md:hover:transform md:transition-all md:hover:-translate-y-4 md:hover:shadow-xl">
                     <div class="flex justify-between p-2 h-4/5">
@@ -142,7 +142,7 @@
                     <div class="flex justify-between p-2 bg-zinc-50 z-50 rounded-b-xl items-center text-green-900 font-semibold">
                         <p >Manzanilla</p>
                         <span>$ 24.000</span>
-                    </div>   
+                    </div>
                 </div>
             </section>
         </article>
@@ -163,7 +163,7 @@
                     <div class="flex justify-between p-2 bg-zinc-100 z-50 rounded-b-xl items-center text-green-900 font-semibold">
                         <span>Zanahoria</span>
                         <span>$ 10.000</span>
-                    </div>   
+                    </div>
                 </div>
                  <div class="card-supermarket bg-tomate bg-contain bg-center bg-no-repeat">
                     <div class="flex justify-between p-2 h-4/5">
@@ -175,7 +175,7 @@
                     <div class="flex justify-between p-2 bg-zinc-50 z-50 rounded-b-xl items-center text-green-900 font-semibold">
                         <span>Tomate</span>
                         <span>$ 19.000</span>
-                    </div>   
+                    </div>
                 </div>
                  <div class="card-supermarket bg-cebolla bg-center bg-contain bg-no-repeat">
                     <div class="flex justify-between p-2 h-4/5">
@@ -187,7 +187,7 @@
                     <div class="flex justify-between p-2 bg-zinc-50 z-50 rounded-b-xl items-center text-green-900 font-semibold">
                         <span>Cebolla</span>
                         <span>$ 1.550</span>
-                    </div>   
+                    </div>
                 </div>
                  <div class="card-supermarket bg-pepino bg-contain bg-center bg-no-repeat">
                     <div class="flex justify-between p-2 h-4/5">
@@ -199,7 +199,7 @@
                     <div class="flex justify-between p-2 bg-zinc-50 z-50 rounded-b-xl items-center text-green-900 font-semibold">
                         <span>Pepino</span>
                         <span>$ 1.000</span>
-                    </div>   
+                    </div>
                 </div>
                  <div class="card-supermarket bg-pimenton bg-contain bg-center bg-no-repeat">
                     <div class="flex justify-between p-2 h-4/5">
@@ -211,7 +211,7 @@
                     <div class="flex justify-between p-2 bg-zinc-50 z-50 rounded-b-xl items-center text-green-900 font-semibold">
                         <span>Pimenton</span>
                         <span>$ 500</span>
-                    </div>   
+                    </div>
                 </div>
                  <div class="card-supermarket bg-lechuga bg-contain bg-center bg-no-repeat">
                     <div class="flex justify-between p-2 h-4/5">
@@ -223,7 +223,7 @@
                     <div class="flex justify-between p-2 bg-zinc-50 z-50 rounded-b-xl items-center text-green-900 font-semibold">
                         <span>Lechuga</span>
                         <span>$ 15.000</span>
-                    </div>   
+                    </div>
                 </div>
                  <div class="card-supermarket bg-remolacha bg-contain bg-center bg-no-repeat">
                     <div class="flex justify-between p-2 h-4/5">
@@ -235,7 +235,7 @@
                     <div class="flex justify-between p-2 bg-zinc-50 z-50 rounded-b-xl items-center text-green-900 font-semibold">
                         <span>Remolacha</span>
                         <span>$ 1.200</span>
-                    </div>   
+                    </div>
                 </div>
                  <div class="card-supermarket bg-aguacate bg-contain bg-center bg-no-repeat">
                     <div class="flex justify-between p-2 h-4/5">
@@ -247,7 +247,7 @@
                     <div class="flex justify-between p-2 bg-zinc-50 z-50 rounded-b-xl items-center text-green-900 font-semibold">
                         <p >Aguacate</p>
                         <span>$ 1.000</span>
-                    </div>   
+                    </div>
                 </div>
             </section>
         </article>
@@ -268,7 +268,7 @@
                     <div class="flex justify-between p-2 bg-zinc-100 z-50 rounded-b-xl items-center text-green-900 font-semibold">
                         <span class="">Uvas</span>
                         <span>$ 10.000</span>
-                    </div>   
+                    </div>
                 </div>
                  <div class="card-supermarket bg-naranja bg-center bg-contain bg-no-repeat">
                     <div class="flex justify-between p-2 h-4/5">
@@ -280,7 +280,7 @@
                     <div class="flex justify-between p-2 bg-zinc-50 z-50 rounded-b-xl items-center text-green-900 font-semibold">
                         <span>Naranja</span>
                         <span>$ 3.000</span>
-                    </div>   
+                    </div>
                 </div>
                  <div class="card-supermarket bg-fresa bg-center bg-contain bg-no-repeat">
                     <div class="flex justify-between p-2 h-4/5">
@@ -292,7 +292,7 @@
                     <div class="flex justify-between p-2 bg-zinc-50 z-50 rounded-b-xl items-center text-green-900 font-semibold">
                         <span>Fresas</span>
                         <span>$ 300</span>
-                    </div>   
+                    </div>
                 </div>
                  <div class="card-supermarket bg-papaya bg-center bg-contain bg-no-repeat">
                     <div class="flex justify-between p-2 h-4/5">
@@ -304,7 +304,7 @@
                     <div class="flex justify-between p-2 bg-zinc-50 z-50 rounded-b-xl items-center text-green-900 font-semibold">
                         <span>Papaya</span>
                         <span>$ 5.000</span>
-                    </div>   
+                    </div>
                 </div>
                  <div class="card-supermarket bg-mora bg-contain bg-center bg-no-repeat ">
                     <div class="flex justify-between p-2 h-4/5">
@@ -316,7 +316,7 @@
                     <div class="flex justify-between p-2 bg-zinc-50 z-50 rounded-b-xl items-center text-green-900 font-semibold">
                         <span>Mora</span>
                         <span>$ 1.000</span>
-                    </div>   
+                    </div>
                 </div>
                  <div class="card-supermarket bg-sandia bg-center bg-contain bg-no-repeat">
                     <div class="flex justify-between p-2 h-4/5">
@@ -328,7 +328,7 @@
                     <div class="flex justify-between p-2 bg-zinc-50 z-50 rounded-b-xl items-center text-green-900 font-semibold">
                         <span>Sandia</span>
                         <span>$ 12.000</span>
-                    </div>   
+                    </div>
                 </div>
                  <div class="card-supermarket bg-banano bg-center bg-no-repeat bg-contain">
                     <div class="flex justify-between p-2 h-4/5">
@@ -340,7 +340,7 @@
                     <div class="flex justify-between p-2 bg-zinc-50 z-50 rounded-b-xl items-center text-green-900 font-semibold">
                         <span>Banano</span>
                         <span>$ 800</span>
-                    </div>   
+                    </div>
                 </div>
                  <div class="card-supermarket bg-manzana bg-center bg-contain bg-no-repeat">
                     <div class="flex justify-between p-2 h-4/5">
@@ -352,7 +352,7 @@
                     <div class="flex justify-between p-2 bg-zinc-50 z-50 rounded-b-xl items-center text-green-900 font-semibold">
                         <p >Manzana</p>
                         <span>$ 1.000</span>
-                    </div>   
+                    </div>
                 </div>
             </section>
         </article>
@@ -373,7 +373,7 @@
                     <div class="flex justify-between p-2 bg-zinc-100 z-50 rounded-b-xl items-center text-green-900 font-semibold">
                         <span class="">Marihuana</span>
                         <span>$ 100.000</span>
-                    </div>   
+                    </div>
                 </div>
                  <div class="card-supermarket bg-manzanilla bg-center bg-contain bg-no-repeat">
                     <div class="flex justify-between p-2 h-4/5">
@@ -385,7 +385,7 @@
                     <div class="flex justify-between p-2 bg-zinc-50 z-50 rounded-b-xl items-center text-green-900 font-semibold">
                         <span>Manzanilla</span>
                         <span>$ 24.000</span>
-                    </div>   
+                    </div>
                 </div>
                  <div class="card-supermarket bg-cactus bg-center bg-contain bg-no-repeat">
                     <div class="flex justify-between p-2 h-4/5">
@@ -397,7 +397,7 @@
                     <div class="flex justify-between p-2 bg-zinc-50 z-50 rounded-b-xl items-center text-green-900 font-semibold">
                         <span>Cactus</span>
                         <span>$ 112.000</span>
-                    </div>   
+                    </div>
                 </div>
                  <div class="card-supermarket bg-bromelia bg-center bg-contain bg-no-repeat">
                     <div class="flex justify-between p-2 h-4/5">
@@ -409,7 +409,7 @@
                     <div class="flex justify-between p-2 bg-zinc-50 z-50 rounded-b-xl items-center text-green-900 font-semibold">
                         <span>Bromelia</span>
                         <span>$ 19.990</span>
-                    </div>   
+                    </div>
                 </div>
                  <div class="card-supermarket bg-romero bg-center bg-contain bg-no-repeat">
                     <div class="flex justify-between p-2 h-4/5">
@@ -421,7 +421,7 @@
                     <div class="flex justify-between p-2 bg-zinc-50 z-50 rounded-b-xl items-center text-green-900 font-semibold">
                         <span>Romero</span>
                         <span>$ 1.000</span>
-                    </div>   
+                    </div>
                 </div>
                  <div class="card-supermarket bg-menta bg-center bg-contain bg-no-repeat">
                     <div class="flex justify-between p-2 h-4/5">
@@ -433,7 +433,7 @@
                     <div class="flex justify-between p-2 bg-zinc-50 z-50 rounded-b-xl items-center text-green-900 font-semibold">
                         <span>Menta</span>
                         <span>$ 15.000</span>
-                    </div>   
+                    </div>
                 </div>
                  <div class="card-supermarket bg-perejil bg-center bg-contain bg-no-repeat">
                     <div class="flex justify-between p-2 h-4/5">
@@ -445,7 +445,7 @@
                     <div class="flex justify-between p-2 bg-zinc-50 z-50 rounded-b-xl items-center text-green-900 font-semibold">
                         <span>Perejil</span>
                         <span>$ 19.990</span>
-                    </div>   
+                    </div>
                 </div>
                  <div class="card-supermarket bg-aloe bg-center bg-contain bg-no-repeat">
                     <div class="flex justify-between p-2 h-4/5">
@@ -457,7 +457,7 @@
                     <div class="flex justify-between p-2 bg-zinc-50 z-50 rounded-b-xl items-center text-green-900 font-semibold">
                         <p >Aloe Vera</p>
                         <span>$ 9000</span>
-                    </div>   
+                    </div>
                 </div>
             </section>
         </article>
@@ -549,7 +549,10 @@ import { defineComponent } from 'vue'
 export default defineComponent({
   head(){
     return {
-      title: 'Supermarket'
+      title: 'Supermarket',
+      link: [
+        { rel: 'icon', type: 'image/x-icon', href: 'https://toppng.com/public/uploads/thumbnail/groceries-icon-supermarket-icon-11553511751hv6qadim3c.png' }
+      ]
     }
   },
   setup() {
