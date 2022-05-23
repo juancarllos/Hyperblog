@@ -104,7 +104,7 @@
                         </span>
                     </div>
                     <div class="flex justify-between p-2 bg-zinc-50 z-50 rounded-b-xl items-center text-green-900 font-semibold">
-                        <span>Naranaja</span>
+                        <span>Naranja</span>
                         <span>$ 3.000</span>
                     </div>
                 </div>
@@ -209,7 +209,7 @@
                         </span>
                     </div>
                     <div class="flex justify-between p-2 bg-zinc-50 z-50 rounded-b-xl items-center text-green-900 font-semibold">
-                        <span>Pimenton</span>
+                        <span>Pimentón</span>
                         <span>$ 500</span>
                     </div>
                 </div>
@@ -326,7 +326,7 @@
                         </span>
                     </div>
                     <div class="flex justify-between p-2 bg-zinc-50 z-50 rounded-b-xl items-center text-green-900 font-semibold">
-                        <span>Sandia</span>
+                        <span>Sandía</span>
                         <span>$ 12.000</span>
                     </div>
                 </div>
@@ -479,7 +479,7 @@
                 </div>
                 <div>
                     <p class="text-xl font-md text-green-900">Envios</p>
-                    <p class="text-md pt-2">Ofrecemos envios a toda parte del pais</p>
+                    <p class="text-md pt-2">Ofrecemos envios a toda parte del país</p>
                 </div>
                 <div>
                     <p class="text-xl font-md text-green-900">Email</p>
@@ -505,7 +505,7 @@
                 <a class="text-sm text-zinc-50" href="#">Email</a>
             </li>
             <li class="footer-menu">
-                <a class="text-sm text-zinc-50" href="#">Metodos de pago</a>
+                <a class="text-sm text-zinc-50" href="#">Métodos de pago</a>
             </li>
             <li class="footer-menu">
                 <a class="text-sm text-zinc-50" href="#">Envios</a>

@@ -49,7 +49,7 @@
             id=""
           />
           <div class="hidden lg:h-auto lg:w-2/5 lg:flex lg:pb-6">
-            <p class="text-4xl ml-16 font-bold text-zinc-50">Encuentra más ubicaiones como esta</p>
+            <p class="text-4xl ml-16 font-bold text-zinc-50">Encuentra más ubicaiones cómo está</p>
           </div>
           <button
             class="
@@ -87,7 +87,7 @@
           <div class="card-img bg-medallo bg-cover"></div>
           <div class="w-full h-2/5 bg-terciary">
             <p class="text-white font-bold text-lg text-center py-4">Medallo</p>
-            <p class="text-white text-md text-center">Medellin</p>
+            <p class="text-white text-md text-center">Medellín</p>
           </div>
         </div>
         <div class="card">
@@ -107,15 +107,15 @@
         <div class="card">
           <div class="card-img bg-macheta bg-cover"></div>
           <div class="w-full h-2/5 bg-secondary">
-            <p class="text-slate-800 font-bold text-lg text-center py-4">Macheta</p>
-            <p class="text-slate-800 text-md text-center">Macheta</p>
+            <p class="text-slate-800 font-bold text-lg text-center py-4">Machetá</p>
+            <p class="text-slate-800 text-md text-center">Machetá</p>
           </div>
         </div>
         <div class="card">
           <div class="card-img bg-choachi bg-cover"></div>
           <div class="w-full h-2/5 bg-terciary">
-            <p class="text-white font-bold text-lg text-center py-4">Choachi</p>
-            <p class="text-white text-md text-center">Choachi</p>
+            <p class="text-white font-bold text-lg text-center py-4">Choachí</p>
+            <p class="text-white text-md text-center">Choachí</p>
           </div>
         </div>
         <div class="card">
@@ -149,13 +149,13 @@
 
 
           <div class="w-full h-96 bg-macheta bg-cover rounded-xl mb-8 bg-center">
-            <p class="card-featured--title text-zinc-50">Macheta</p>
-            <p class="text-lg pl-8 text-zinc-100 mr-24">Macheta</p>
+            <p class="card-featured--title text-zinc-50">Machetá</p>
+            <p class="text-lg pl-8 text-zinc-100 mr-24">Machetá</p>
           </div>
 
           <div class="w-full h-96 bg-choachi bg-cover rounded-xl mb-8 bg-center">
-            <p class="card-featured--title text-zinc-50">Choachi</p>
-            <p class="text-lg pl-8 text-zinc-50 mr-24">Choachi</p>
+            <p class="card-featured--title text-zinc-50">Choachí</p>
+            <p class="text-lg pl-8 text-zinc-50 mr-24">Choachí</p>
           </div>
 
       </div>
@@ -178,7 +178,7 @@
         </div>
         <div>
           <p class="text-xl font-md text-slate-800">Cortos vaijes</p>
-          <p class="text-md pt-2">Ofrecemos viajes por Colombia cortos, como lo es macheta, chinauta, Tominé, Choachi. Entre otros</p>
+          <p class="text-md pt-2">Ofrecemos viajes por Colombia cortos, como lo es machetá, chinauta, Tominé, Choachi. Entre otros</p>
         </div>
         <div>
           <p class="text-xl font-md text-slate-800">Cilindrajes</p>
